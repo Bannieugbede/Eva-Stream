@@ -1,7 +1,3 @@
-Sure! Here's a professional documentation draft for the **Eva Stream** mobile application, suitable for inclusion in a README file or developer portal:
-
----
-
 # 📽️ Eva Stream – Mobile Movie Discovery App
 
 Eva Stream is a sleek, cross-platform mobile application built with **Flutter**, designed to deliver a rich and immersive movie discovery experience. Whether you're a casual viewer or a dedicated cinephile, Eva Stream brings the magic of cinema to your fingertips.
